@@ -8,3 +8,4 @@ my first GitHub project
 [Write 1-2 sentences about your goal]
 ## What I Want to Build
 [What would you like to create by the end of this unit?]
+## Collaborator is dominik garay
